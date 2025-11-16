@@ -1,0 +1,92 @@
+******************   Full Stack Python  **************
+📌
+-------------------  L - 2   -------------------------------
+ ➡️ By using python Programming Lang and some combined technologies, we develop the following Real Time Applications.
+1. Development of Web Applications (Web Sites) 
+           a) Java Programming Lang <--------  Tech : Servlets, JSP, Hibernate, Spring, Spring Boot, Spring      with Micro Services ... etc
+              (Sun Micro System INC USA ---> Oracle Corp)
+         b) C#.net Programming Lang <---- Tech : ASP.net, ASP with Micro Services.
+            (Micro Soft ) 
+         c) Python Programming Language <----- Tech : Django , Flask, Bottle, Pyramid.
+
+My  requirement ---- To generate Month of Calendar
+
+      => By Java Programming ---- 25 Lines of Code 
+       => By C#.net Programming ----- 25 Lines of Code
+       =>  Python Programming ----- Just 2 Lines
+                                    Python -- Less Lines of code and gives more Meaning 
+               =>>>> Because of Rich set of Library /   Modules are Present Python
+              =>>> Learning Python = Learning About Modules
+
+------------------------------------------------------- 
+Library
+----------- -----------
+C ---> Libraries of C are called Header Files --- 256
+C++ ---> Libraries of C++ are called Header Files / Name Spaces -- 256
+Java --> Libraries of Java -- Packages
+Python -- Library of Python are called MODULES 
+
+------------------------ L - 3 --------------
+2) Development of Gaming Applications.
+3) Development of Artificial Intelligence Application
+                a> Machine Learning (ML)
+                b> Deep Learning (DL)
+4) Development of Image Processing Applications.
+5) Development of Audio and Video Based Applications.
+6) Development of Web Scrapping / Web Harvesting
+7) Development of Business Application (Apps).
+8) Development of Scientific Applications. (NASA)
+9) Development of Software Development ( Project Development) 
+10) Development of OS Installers 
+11) Development of Languages (Spark, Scala)
+12) Development of Desktop GUI Applications 
+13) Development of Data Analysis and Data Analytics
+14) Development of Automation of Testing 
+15) Development of Complex Math Operations
+16) Development of Console Based Applications (Non-GUI)
+17) Development of Animation Applications
+18) Development of CAD and CAM Based Applications
+19) Development of Computer Vision 
+20) Python Used in Education System
+
+---------------------------------------- L - 4 ------------------------------
+
+- History of Python
+- Versions of Python
+- Downloading Process of Python
+- Installation Process of Python
+-------------------------------------------------------------------
+                                  History of Python
+--------------------------------------------------------------------
+- The Python Programming Language Concevied (Founfation stone Laid down) in the Year 1980
+- The Python Programming Language Implement in the year 1989.
+- The Python Programming Language Officially Released in the Year 1991 Feb
+- The Python Programming Language Developed by "Guido Van Rossum" (Father OR Author of Python).
+- The Python Programming Language Developed at CWI (Centrum Wiskunde Informatica) Research Institute in the Country Netherlands.
+- The Python Pragramming Language Maintained and Managed by a Non-Commercial Organization Called PSF(Python Software Foundation).
+- The officail website of PSF is www.python.org.
+
+============================= =============
+    Version of Python--used in MNCs
+=============================================
+- Version ----->   Numeric value  identification purpose .
+- Version Pragramming Language Contains 3 Types of Versions. They are 
+ 1. Python 1.x --> Here 1 is called Major Version and Represens 0 1 2 3 4,......etc and these called Minor version
+  Python 1.x was already Outdated
+
+ 2. Python2.x  ---> Here 2 is called Major Version and Represens 0 1 2 3 4,5,6,7......etc  and these called Minor version
+  Python 2.x was already outdated
+
+ 3. Python 3.x --->  Here 3.x  is called Major Version and Represens 0 1 2 3 4,5,6,7,8,9,10,11,12,13......etc  and these called Minor version
+     -  Here Python 3.x is called current Version
+     - Python 3.8,3.9,3.10 --- Industry Using for Developing Real Time Applications(secured)
+    - Python 3.11, 3.12 ----Are the Latest Versions (Buffix stage)
+
+
+
+49 ✅
+
+
+
+
+
