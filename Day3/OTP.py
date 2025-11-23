@@ -1,0 +1,6 @@
+# OTPS ---- random
+# Captcha ----
+
+import random as r
+print(r.randint(1000,10000))
+print(r.randint(1000,10000))

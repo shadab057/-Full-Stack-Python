@@ -1,52 +1,74 @@
 ******************   Full Stack Python  **************
 📌
 -------------------  L - 2   -------------------------------
- ➡️ By using python Programming Lang and some combined technologies, we develop the following Real Time Applications.
-1. Development of Web Applications (Web Sites) 
-           a) Java Programming Lang <--------  Tech : Servlets, JSP, Hibernate, Spring, Spring Boot, Spring      with Micro Services ... etc
-              (Sun Micro System INC USA ---> Oracle Corp)
-         b) C#.net Programming Lang <---- Tech : ASP.net, ASP with Micro Services.
-            (Micro Soft ) 
-         c) Python Programming Language <----- Tech : Django , Flask, Bottle, Pyramid.
+➡️ By using python Programming Lang and some combined technologies, we develop the following Real Time Applications.
+1. Development of Web Applications (Web Sites)
+           **a) Java Programming Lang <--------  Tech : Servlets, JSP, Hibernate, Spring, Spring Boot, Spring      with Micro Services ... etc**
+              \*\*(Sun Micro System INC USA ---> Oracle Corp)\*\*
+
+         \*\*b) C#.net Programming Lang <---- Tech : ASP.net, ASP with Micro Services.\*\*
+
+            \*\*(Micro Soft )\*\* 
+
+         \*\*c) Python Programming Language <----- Tech : Django , Flask, Bottle, Pyramid.\*\*
+
+
+
+
+
+
 
 My  requirement ---- To generate Month of Calendar
 
-      => By Java Programming ---- 25 Lines of Code 
-       => By C#.net Programming ----- 25 Lines of Code
-       =>  Python Programming ----- Just 2 Lines
-                                    Python -- Less Lines of code and gives more Meaning 
-               =>>>> Because of Rich set of Library /   Modules are Present Python
-              =>>> Learning Python = Learning About Modules
+      **=> By Java Programming ---- 25 Lines of Code**
+       \*\*=> By C#.net Programming ----- 25 Lines of Code\*\*
 
-------------------------------------------------------- 
+       \*\*=>  Python Programming ----- Just 2 Lines\*\*
+
+                                    \*\*Python -- Less Lines of code and gives more Meaning\*\* 
+
+               \*\*=>>>> Because of Rich set of Library /   Modules are Present Python\*\*
+
+              \*\*=>>> Learning Python = Learning About Modules\*\*
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------
 Library
 ----------- -----------
 C ---> Libraries of C are called Header Files --- 256
 C++ ---> Libraries of C++ are called Header Files / Name Spaces -- 256
 Java --> Libraries of Java -- Packages
-Python -- Library of Python are called MODULES 
+Python -- Library of Python are called MODULES
 
------------------------- L - 3 --------------
+------------------------- L - 3 -------------------------
+
 2) Development of Gaming Applications.
 3) Development of Artificial Intelligence Application
-                a> Machine Learning (ML)
-                b> Deep Learning (DL)
+                **a> Machine Learning (ML)**
+                **b> Deep Learning (DL)**
 4) Development of Image Processing Applications.
 5) Development of Audio and Video Based Applications.
 6) Development of Web Scrapping / Web Harvesting
 7) Development of Business Application (Apps).
 8) Development of Scientific Applications. (NASA)
-9) Development of Software Development ( Project Development) 
-10) Development of OS Installers 
+9) Development of Software Development ( Project Development)
+10) Development of OS Installers
 11) Development of Languages (Spark, Scala)
-12) Development of Desktop GUI Applications 
+12) Development of Desktop GUI Applications
 13) Development of Data Analysis and Data Analytics
-14) Development of Automation of Testing 
+14) Development of Automation of Testing
 15) Development of Complex Math Operations
 16) Development of Console Based Applications (Non-GUI)
 17) Development of Animation Applications
 18) Development of CAD and CAM Based Applications
-19) Development of Computer Vision 
+19) Development of Computer Vision
 20) Python Used in Education System
 
 ---------------------------------------- L - 4 ------------------------------
@@ -56,7 +78,8 @@ Python -- Library of Python are called MODULES
 - Downloading Process of Python
 - Installation Process of Python
 -------------------------------------------------------------------
-                                  History of Python
+                                  **History of Python**
+
 --------------------------------------------------------------------
 - The Python Programming Language Concevied (Founfation stone Laid down) in the Year 1980
 - The Python Programming Language Implement in the year 1989.
@@ -67,26 +90,74 @@ Python -- Library of Python are called MODULES
 - The officail website of PSF is www.python.org.
 
 ============================= =============
-    Version of Python--used in MNCs
+    **Version of Python--used in MNCs**
+
 =============================================
 - Version ----->   Numeric value  identification purpose .
-- Version Pragramming Language Contains 3 Types of Versions. They are 
- 1. Python 1.x --> Here 1 is called Major Version and Represens 0 1 2 3 4,......etc and these called Minor version
-  Python 1.x was already Outdated
+- Version Pragramming Language Contains 3 Types of Versions. They are
+1. Python 1.x --> Here 1 is called Major Version and Represens 0 1 2 3 4,......etc and these called Minor version
+Python 1.x was already Outdated
+Python 2.x does not support backward compatability with python 1.x
+2. Python2.x  ---> Here 2 is called Major Version and Represens 0 1 2 3 4,5,6,7......etc  and these called Minor version
+Python 2.x was already outdated
+Python 3.x does not support Backward Compatability with Python 2.x
+3. Python 3.x --->  Here 3.x  is called Major Version and Represens 0 1 2 3 4,5,6,7,8,9,10,11,12,13......etc  and these called Minor version
+     **-  Here Python 3.x is called current Version**
+     \*\*- Python 3.8,3.9,3.10 --- Industry Using for Developing Real Time Applications(secured)\*\*
+    \*\*- Python 3.11, 3.12 ----Are the Latest Versions (Buffix stage)\*\*
 
- 2. Python2.x  ---> Here 2 is called Major Version and Represens 0 1 2 3 4,5,6,7......etc  and these called Minor version
-  Python 2.x was already outdated
+    **- Python 3.13.9 ------ Current version
+----------------------------------------------------------------------------------------------------------------------
+                                      Downlaoding and Installation Proces of python
+---
+-> Goto www.python.org
+-> Choose Download ---> Python 3.13.2 (click)
+-> Ensure that Python 3.12.2 downloaded
+-> Double click on Python 3.12.2 ---ensure u Must set the Path----> Choose install Now
 
- 3. Python 3.x --->  Here 3.x  is called Major Version and Represens 0 1 2 3 4,5,6,7,8,9,10,11,12,13......etc  and these called Minor version
-     -  Here Python 3.x is called current Version
-     - Python 3.8,3.9,3.10 --- Industry Using for Developing Real Time Applications(secured)
-    - Python 3.11, 3.12 ----Are the Latest Versions (Buffix stage)
+--------------------------------  L - 5   -----------------------------------
+                                         Feature of Python 
+-> Features of language are nothing but Services OR Facilities Provided by Language Developers, which are used by language programmers in development of Real Time Applications.
+-> In python programming, we have 11 Features. They are 
+     Simple 
+     Platform indepedent language
+     Dynamically Typed
+     Interpreted 
+     High Level
+     Robust (Strong)
+     Freeware and Open Source
+     Extensible
+     Embedded
+    Both functional and Object Oriented Programming language 
+    Supports Third Party APIs Such as numpy, pandas, matplotlib, scikit, nltk, keras, scilearn...etc
+
+
+-> Simple  
+Python Programming is of one the simple programming language because  of three important technical factors.
+My Requirement is: To Generate Calendar for Month of year 
+                                 March 2024
+                  c -- Language how do u write code  --- 350+ lines
+                 Java-Lang-- How do u write code--25 lines
+               C#.net How do u write code-----25 lines ---- These Many Lines of Code is complex
+               Python ---- How do u write code ---- 2 lines ----- Less lines and more meaning---Modules
+Work .
+  Python programming provides "Rich set of Modules"
+       so that python programmer can Re-used the pre-defined code whicch is present in modules.
 
 
 
-49 ✅
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+✅
