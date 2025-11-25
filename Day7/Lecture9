@@ -1,0 +1,50 @@
+# Freeware and open source
+
+--- Freeware:
+
+=> If any Programming Language is Freely Downloadable from officail source (www.python.org from PSF) then that language is called Freeware.
+ 
+ Example : Python, Java
+
+---  Open Source:
+=> The standard name of python software is "CPYTHON".
+=>  open source is nothing but making the software to be available to all People.
+=> Once the Software is open source then some software companies came forward and customized the python software for thier In-House Tools like performance evaluation, quality of testing, Releasing Process...etc
+
+=> The customized softwares of python are called "Python Distributions".
+--  jpYTHON OR jYTHON ---> used for Running Java Based Applications.
+-- IronPython OR Ipython --> Used for Running C#.net based applicatons
+
+-- Micro Python ----> Used for development of Micro Controller Applicatons.
+-- Anaconda Python ----> used for developing big data or hadoop based applications.
+
+
+# # # # # # #  5. High Level # # # # # # # # # 
+
+ln this context, we have two type of language .
+They are
+
+1. Low level Programming Language 
+2. High level Programming Language 
+
+
+> Low level Programming Language:
+
+In Low Programming language, data is always stored in the form low level values such as binary data, octal data and hexaDecimal data.
+
+These Number system are not directly understandable end-user.
+
+--- Example :  a=0b1010101010--Binary Data
+---            b=0xBEEE----- Hexa Decimal Data
+---            c=0o23-------Octal Data
+
+
+>  High Level Programming Language
+
+In these language, internally, Even the Programmer specifies the data in the form of Low Level Format such Binary Data, octal Data and Hexa Decimal data, automatically python programming language execution environment converts into high level data, which is understandalble end-user.  Hence python is one of the High level programming language.
+
+
+
+
+
+

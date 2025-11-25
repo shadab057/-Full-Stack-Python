@@ -1,0 +1,24 @@
+# Dynamically Typed
+
+> In IT, we have Two Types of programming language They are 
+
+1. Static Typed Programming Language.
+2. Dynamically typed programming language.
+
+Data Types  <-------  To allocate Memory space for Storing Inputs
+> store 100 in memory  ------- 1. allocate memory space ---- Data Type
+> Give the name to memory space --- say -a
+
+int a ----> variable Declaration--Mandatory--Static typed programming language
+
+
+> Task: Compute Sum of Two Numbers
+
+Take 10 20 and store in a and b
+compute a+b and store in c
+
+let a=10 and b=20
+let compute c=a+b
+------------------------
+c,c++,java
+
