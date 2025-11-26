@@ -1,0 +1,64 @@
+
+
+=> Project -- Runs<-- End-user OR  Application User Enters Invalid Input---- By default ---> Technical Error Messages 
+
+
+> We have 3 types of Error 
+
+1. Complie time Errors <-- occurs due to syntaxes of the language are not followed during compilation phase (.py---> .pyc)>
+-    solved by Programmers in Development time 
+
+
+2. Logical Errors <-- occurs sdue to invalid OR wrong Representation of Logic >
+- During Execution Phase
+- Gives wrong result
+
+3. Runtime Errors  <-- occurs due to invalid input / Wrong inputs entered by END-USER / App User during Execution Phase (Implementation Phase)>
+
+  >  Example :  
+  
+  > ATM Application ---> ATM customer may keep the card reserve order
+
+  * ATM customer may keep the card reserve order .(Understandable by Programmers but not by end-users)
+  * ATM customer may enter PIN wrong 
+  * ATM customer may enter wrong amount 
+
+# Robust (Strong) #
+
+-> Python programming provdes a programming feature called "Exception Handling".
+-> Due to exception handling facility, python based application becomes robust(strong).
+
+----------------------------------------------
+> Exception 
+
+* Every runtime error of the program is called exception.
+(Invalid input ---> Runtime Error-->Exception)
+* By default All Exception (Runtime Errors) gives Technical Error message.which are understandle by programmers but not by end-users and this is not a recommended process in software industry.
+
+* software industry recommends convert tecnical error message into user friendly error message by using exception handling.
+
+
+------  
+The process of converating technical error message into user-friendly error message is called exception handling.
+
+# Extensible  and Embedded #
+
+# Extensible :
+
+python programming provides its modules to other languages - c, c++, html, javascript
+
+# Embedded 
+
+* python language uses other language code segments / snipets
+
+
+
+
+
+
+
+
+
+
+
+
