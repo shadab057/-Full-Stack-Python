@@ -1,0 +1,69 @@
+### Data Represenation in Python
+
+Index
+
+> What is Data
+> Purpose of Data 
+> Types of Literals OR Values
+> Importance of Identifiers OR Variables
+> Rules for Using Variables OR Indentifier in Python 
+
+----------------------------
+
+- The Processed information of Data is Called Data.
+         (OR)
+- OR Studying the insights of information is called Data
+- The Purpose of Data is that "To Effective Decisions in Oraganizations.
+
+> Python Literals, are values/data that is given in a variable(constants)
+
+- Ex: 10,5.6,"Hi", True etc
+
+
+$ Types of Literals (OR) Values (OR) Data
+
+- Interal Litrals
+- Float Litrals
+- Boolean Litrals
+- String Litrals
+- Collection Litrals
+  * List listerals [], 
+  * Tuple literals(), Can't Modify 
+  * Dict literals{},
+  * Set literals{"rno": 10101},
+
+
+$ Importance of Identifier OR Variables
+
+- In programming language, literals must be stored in main memory by allocating sufficient amount of memory space with the help of data types.
+- We know that all types LITERALS are stored in main memory by having memory space.
+- To process values which are present in memory space, programmers must give DISTINCT NAMES to created memory  
+- The IDENTIFIER Values are Changing / Varying during Program Execution and hence IDENTIFIERS are called VARIABLES
+- Hence All types of LITREALS are stored in the form VARIABLES and all variables are called OBJECTS.
+
+------------------------
+Defination of Varaible:
+
+A Varaible is an identifier, whose value can be changed OR varying during the program execution.
+
+> Rules of using Variable OR Identifier in Python 
+
+-  To use Variable in Python Program, we must follow the Rules.
+- The Rules for using Varaibles in Python Program are 
+
+1. The Variable name is a combination of Alphabets, digits and speacial symbol underscore(_).
+2. The First letter of variable name must starts either with Alphphet OR Special Symbol Under Score(_) only.
+3. No reserved words: don’t use if, for, class, True, None, etc.
+4. Case-sensitive: age and Age are different names.
+Example:  
+✅ score1, _temp, user_name
+❌ 1stPlace, user-name, my@var
+
+
+
+
+
+
+
+
+
