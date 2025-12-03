@@ -1,0 +1,97 @@
+### Rule - 5 ###
+
+> All the Variable names in python are case sensitive 
+
+> Data types in python 
+- The puropose of Data Types in python is that "allocate sufficient amount of memory space in main memory for storing the Data.
+
+- IN python programming we have 14 Data types and they are classified into 6 categories. They are 
+
+1 . Fundamental category Data Types
+------------------------------------
+- int 
+- float
+- bool
+- complex
+
+2 . Sequence category data types 
+-------------------------------------
+- str
+- bytes
+- bytearray
+- range
+
+3 . List category data types
+----------------------------------
+- list
+- tuple
+
+4 . Set category data types(collections data types)
+---------------------------------------------
+- set
+- frozenset
+
+5 . dict category data type(collection data types)
+----------------------------------
+- dict
+
+6 . None type category data type
+-------------------------
+- None Type
+
+>  Fundamental category Data Types
+- The purpose of fundamental category Data types is that "To Store Single Value".
+- In Python Programmng, we have 4 Data types in Fundamental Category. They are 
+
+- int
+- float
+- bool
+- complex
+
+$$$$>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>$$$$
+
+>>> int   
+- 'int' is one of the pre-defined class and treated as fundamental Data Type.
+- The purpose of int Data type is that "To store whole numbers OR Integral Values (values without decimal places)
+- By using in data type, we can also store different type of number systems.
+- In python Progaramming, we 4 types of number system. they are 
+
+1. Decimal Number System
+2. Binary Number System 
+3. Octal Number System 
+4. Hexa Decimal Numbeer System
+
+-----------------------
+
+> Decimal Number System
+- This Number System followed by all human beings for thier day-to-day operations 
+- This Number System contains the following 
+    = Digits: 0 1 2 3 4 5 6 7 8 9 
+- All Base 10 Values are called Decimal Number System values.
+
+> Binary Number System
+- The Number Sytem understandable by OS and Processor .
+-  Digits: 0 1 ---- Total Digits: 2
+   Base: 2
+- All Base 2 Values are called Binary DAta, The Binary Data must be preceded with a letter 0b or 0B.
+  Syntax: varname=0b Binary Value
+       (OR)
+       varname=0B Binary Value
+- In python Programming, even through we store Binary Data, Internally Python Execution Environment automatically OR implicity converts into decimal number system.
+Note: To Convert Decimal Number System value into Binary NUmber System Value, we use a Pre-defined dunction called bin()
+
+varname=bin(Decimal / Octal / Hexa Decimal)
+
+> Octal Number System 
+- The Number Sytem understandable by Micro Processor Kits Like in 8086 OR Assembly language programming 
+
+- This Number System contains the following 
+-  Digits: 0 1 3 4 5 6 7 ---- Total Digits: 8
+   Base: 8
+- All Base 8 Values are called Ocatal Number System VAlues.
+    Syntax: varname=0b Octal Value
+    varname=0B Octal Value
+
+> Hexa Decimal System
+
+
