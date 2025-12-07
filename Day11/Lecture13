@@ -1,0 +1,46 @@
+### lecture 13 ###
+
+
+> Hexa Decimal System
+
+- This Number System used in Development of OSes
+- This Number contains the following
+    - Digits: 0 1 2 3 4 5 6 7 8 9 
+              A(10) B(11) C(12) D(13) E(14) F(15)--- TOTAL : 16
+       BASE: 16        
+- All Base 16 Values are called Hexa Decimal System Values.
+- In Python Programming, to store Hexa Decimal, The Hexa Decimal Data must be preceded with a letter 0x or 0X.
+
+syntax: varname=0x Hexa decimal value
+           (OR)
+        varname=0X Hexa Decimal value
+
+- In python Programming, even through we store Hexa Decimal Number System values, Internally Python Execution Environment automatically OR implicity converts into decimal number system.
+
+Examples: 
+  - 
+- NOTE: To convert decimal binary, octal system value into hexa decimal number value, we use a pre-defined funcion called hex()
+   - varname=hex(Decimal / octal / Hexa Decimal)
+
+
+----- ----- ----
+In pyhton programming, we have 3 types of base conversion functions.They are 
+    1. bin()
+    2. oct()
+    3. hex()
+
+- bin()
+* To convert decimal binary, octal system value into hexa decimal number value, we use a pre-defined funcion called hex()
+   - varname=hex(Decimal / octal / Hexa Decimal)
+
+
+- oct()
+* To convert Decimal, Binary, Hexa Decimal Number System Value into Octal Number System value, we use a pre-defined function called oct()
+   - varname=oct(Decimal / Binary / Hexa Decimal)
+
+
+- hex()
+* To convert Decimal, Binary, octal system value into hexa Decimal Number System Value, we use a pre-defined function called Hexa decimal number()
+
+   - varname=hex(decimal / binary / octal)
+
