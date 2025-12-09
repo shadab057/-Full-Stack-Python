@@ -1,0 +1,43 @@
+###  data types ###
+> Float
+- 'float' is one of the predefined class and treated as fundamental data types.
+- The purpose of float adata type is that "To store real constant values OR floating point values (numbers with decimal values).
+- the float datatypes is also used for storing floating point value in the scienticfic notation. 
+ The notation scienticfic nataton is "Mantisa e Exponent OR Mantisa e -Exponent ".
+- The equivalent float point value for scientic natation "Mantisa e Exponent" is mantisa * 10 to the power of exponent .
+- floating data types never allow binary, octal, hexa decimal values. but only decimal number system values.
+
+*   e -> 10 exponent 
+
+> bool 
+
+- 'Bool is one pre-defined class treated as fundamental data type.
+- The purpose of bool data type is that store True and False values(Logical Values).
+- Here True and False is a Keywords and considered as values for bool data type.
+- Internally, True value is treated as 1 and False is treated as 0
+
+- 
+> complex 
+- 'complex' is one pre-defined class treated as fundamental data type.
+- The purpose of complex data type is that "To store complex values and perform operations complex values.
+- The general natation of complex number is given below.
+    a+bj OR a-bj
+    - here 'a' is called real part
+    - here 'b' is called imaginary part
+    - here Letter 'j' represent sqrt(-1) OR sqr(j) = -1
+- Internally, real part and imaginary part are considered as float values.
+- to get REal part and Imaginary parts from complex object, we use two pre-defined attributes. they are
+
+1. real
+2. imag
+
+-- syntax : complexobj.real gives real part of complex object 
+--        : complexobj.imag   --> gives imaginary part of complex object
+
+
+
+
+
+
+
+
