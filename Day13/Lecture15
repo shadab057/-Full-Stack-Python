@@ -1,0 +1,94 @@
+### Sequence Category Data Types
+
+- The purpose of Sequence Category Data Types is that "To store Sequence of Values".
+
+- In pyhton programming, we have 4 types in sequence category . they are 
+
+1. str
+2. bytes
+3. bytearray
+4. range
+
+==========================
+> str (Part - 1)
+
+* What is str? 
+* Purpose of str
+* Notation of str
+* Syntax fo rstoring str data
+* Memory Management of str 
+* operation on str 
+- indexing
+- slicing
+* Programming example
+
+----------------------------
+- Our application development 
+- text data to store 
+i. Ur Names
+ii. Place Names
+iii. Product names
+iv. Description of Product / People / place
+
+...............................................
+- C language 1. Char data - ---- 'A''z' '9'-- Valid
+                                    'shadab' invalid ❌
+                                Array of chars char ch[]={'c','a','t'}
+
+  Java lang------- char data ---- '' ----char data type
+                   sring data ----" " --- java.lang.string
+
+======================================================
+In Python --------- we don't have char data type
+             we have str data type --- we can store both char data and string data 
+
+             To store char data and str data ---- we use symbolic notation --- ' ' OR " "
+
+
+             2. String Data------"shad" --- valid 
+> 'str' is one of the pre-defined class and treated as sequence Data type.
+
+> A str is a collection of character or numeric, special symbol  data or any type of data enclosed within sequence of character within single and double quotes.
+
+> types of str data
+1. single line strin data
+2. multi line string data
+
+------------------------
+> single line strin data
+syntax1: varname="single line string data"
+syntax2: varname='single line string data'
+
+> multi line string data
+syntax1: varname="""string data1
+                    string data2"""
+
+syntax2: varname='''string data1
+                    string data2'''
+
+
+
+
+
+- str ----> alphabet, number, special symbol.
+
+In python programming single '' quotes takes less space
+
+
+To store str data ---symbolic notation " "
+===================
+
+> Memory Management of str data
+
+- 
+consider the following memory manaement daigram for str data.
+- When this statement is executed, in the memory the above str data stored as follows
+
+
+https://excalidraw.com/#json=VsdH7GUcDfWZuCIzV-1jz,2xvXmYWsbxEKn4_V8kwSMQ
+
+
+
+
+
+
