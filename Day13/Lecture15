@@ -51,7 +51,7 @@ In Python --------- we don't have char data type
 > A str is a collection of character or numeric, special symbol  data or any type of data enclosed within sequence of character within single and double quotes.
 
 > types of str data
-1. single line strin data
+1. single line string data
 2. multi line string data
 
 ------------------------
@@ -81,8 +81,24 @@ To store str data ---symbolic notation " "
 > Memory Management of str data
 
 - 
-consider the following memory manaement daigram for str data.
+consider the following memory management daigram for str data.
 - When this statement is executed, in the memory the above str data stored as follows
+- Memory Management of str data
+a) +ve Indexing
+b) -ve Indexing
+
+- Operations on str data
+a) Indexing
+- The purpose of indexing operation is that "to get one value at a time from str object".
+- In otherwords, The Processing of Obtaining One Value from str object by passing valid index is called indexing
+
+➡️ syntax : strobj[index] +ve or -ve
+- Here strobj is an object of <class,'str'>
+- if we enter valid index then we get corresponding value from str object.
+- if we enter invalid index then we get indexError as a Result.
+
+
+b) slicing Operation
 
 
 https://excalidraw.com/#json=VsdH7GUcDfWZuCIzV-1jz,2xvXmYWsbxEKn4_V8kwSMQ
