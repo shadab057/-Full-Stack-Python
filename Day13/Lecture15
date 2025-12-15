@@ -97,14 +97,49 @@ a) Indexing
 - if we enter valid index then we get corresponding value from str object.
 - if we enter invalid index then we get indexError as a Result.
 
+➡️➡️➡️➡️➡️  Lecture  16 ➡️➡️➡️➡️➡️
 
 b) slicing Operation
+- Slicing is the operation of extracting a portion (subsequence) of data from sequences like lists, strings, tuples, arrays, etc.
+- It uses the indexing operator [:] with optional parameters:
+sequence[start:stop:step]
+
+➡️  Purpose
+- To access subsets of data without modifying the original sequence.
+- To manipulate sequences efficiently (e.g., reversing, skipping elements, trimming)
+- To simplify code by avoiding loops for extracting parts of sequences.
+
+Syntax
+ 👉
+syntax-1: strobj[Beginindex:Endindex]
+
+- This Syntax gives of Range Chars from BEGINING INDEX TO ENDINDEX-1 provied BeginIndex < ENDINDEX Otherwise we get Space or '' as Result
 
 
-https://excalidraw.com/#json=VsdH7GUcDfWZuCIzV-1jz,2xvXmYWsbxEKn4_V8kwSMQ
+👉
+syntax-2: strobj [Beginindex:]
+- In This we specify begin index and we don't specify 
+- If we don't specify END Index Then PVM takes END index as len(strobj)
+
+- If we don't specify END Index then pvm takes the tange of chars from begin index to last character.
+    OR
+- This syntax gives RAnge of char from Begin index to last character.
+
+
+👉 
+syntax-3: StrObj[:Endindex]
+- In This we specify END index and we don't specify BEGIN Index 
+- If we don't specify BEGIN Index Then PVM takes BEGIN index as Either 0 (+ve) or -len(strObj).
+
+- If we don't specify BEGIN Index then pvm takes the Range of chars from first character END index-1.
+    OR
+- This syntax gives RAnge of char from Begin index to last character.
+
+
+https://excalidraw.com/#json=a2ZfnPRdw55gOpNHEsR0r,i5Ad4ZgVL3GfhqZezGqKGQ
 
 
 
 
 
-
+-- 25
