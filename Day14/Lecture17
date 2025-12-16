@@ -1,0 +1,19 @@
+Syntax-4: StrObj[:] 
+
+- In this syntax, we don't specify Begin Index and End Index.
+- If we don't Specify Begin Index we get First Character Onwards.
+- If we don't Specify End Index we get upto last character.
+- Hence This Syntax Gives Range Chars from character to last character(complete Str Data).
+
+👉 NOTE   : All the above syntaxes are given range of values (sub strings in forward direction with default step +1)
+
+Syntax-5: strObj[Begin:End:Step] --- 5 rules
+
+RULE-1: Here Begin, End and Step values can be Either +ve or -ve
+RULE-2: If the value of STEP of +ve then PVM gets the range of values from Begin to End-1 Index in forward direction Begin < End otherwise we get Space as Result OR '' as Result
+RULE-3: If the value of STEP of -ve then PVM gets the range of values from Begin > End+1 index in backward direction provided Begin > End otherwise we get space as result OR '' as Result.
+
+RULE-4: if forward direction, if we specify the end index 0 then we get space OR '' as result
+
+RULE-5: if backward direction, if we specify the end index -1 then we get space OR '' as result
+
