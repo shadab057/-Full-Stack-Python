@@ -1,0 +1,40 @@
+---------  Type casting techniques in Python -----
+
+- The process of converting one possible type of value into another possible type of value is called type casting techniques in python .
+
+- In python programming we have 5 fundamental type casting techniques. they are : 
+ 1. int() 
+ 2. float()
+ 3. bool() 
+ 4. complex() 
+ 5. str()
+
+ ------------------------------------------
+- int()  is used for converting one type of possible value into int type value.
+syntax: varname=int(float/bool/complex/str)
+✅
+❌
+
+- float() is used for converting one type of possible value into float type value.
+syntax: varname=float(int/bool/complex/str)
+✅ i,f,b,si,sf,
+❌ c,sc,sb,ps
+
+- bool() is used for converting one type of possible value into bool type value.
+syntax: varname=bool(float/int/complex/str)
+- ALL NON-ZERO VALUES ARE TREATED AS TRUE
+- ALL ZERO VALUES ARE TREATED AS FALSE
+✅ i,f,b,c,si,sf,sb,sc,ps
+❌
+
+- complex() is used for converting one type of possible value into bool type value.
+syntax: varname=complex(float/int/bool/str)
+✅ i,f,b,c,si,sf,sb,sc,
+❌ sb,ss,ps,
+
+- str() is used for converting one type of possible value into bool type value.
+syntax: varname=str(float/int/bool/complex)
+✅
+❌
+
+
