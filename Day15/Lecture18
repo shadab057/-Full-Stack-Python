@@ -27,14 +27,14 @@ syntax: varname=bool(float/int/complex/str)
 ✅ i,f,b,c,si,sf,sb,sc,ps
 ❌
 
-- complex() is used for converting one type of possible value into bool type value.
+- complex() is used for converting one type of possible value into complex type value.
 syntax: varname=complex(float/int/bool/str)
-✅ i,f,b,c,si,sf,sb,sc,
+✅ i,f,b,c,si,sf,sc,
 ❌ sb,ss,ps,
 
-- str() is used for converting one type of possible value into bool type value.
+- str() is used for converting one type of possible value into str type value.
 syntax: varname=str(float/int/bool/complex)
-✅
+✅ i,f,b,c,si,sf,sb,sc,ps
 ❌
 
 
