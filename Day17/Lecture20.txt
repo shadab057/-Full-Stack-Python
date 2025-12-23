@@ -1,0 +1,72 @@
+Mutable and Immutable Objects
+
+Mutable
+- A Mutable object is one, whose content can be changed at the same address
+- Example:
+list, set, dict
+
+Immutable Objects
+- An object is said to Immutable if it satisfies the following the properties
+          1. Immutable objects value can't be changed at same address
+          (Immutable objects value can be changed and Modified values placed at Different Address)
+          2. Immutable objects never allows to us to perform item assigment
+Example:
+int, float, bool, complex,str,bytes,range,tuple,set,frozenset,NoneType
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~```
+
+
+3. bytearray  - Mutable
+~~~~~~~~~~~~
+- 'bytearray' is one of the pre-defined class and treated sequence Data type.
+- The purpose of bytearray data type is that "To implement end-to-end encryption" in network based applications.
+- A bytearray is a mutable sequence of bytes where each element must be in the range 0 to 255.
+Syntax: varname=bytes(object)
+
+- An object of bytearray maintains insertion order (insertion order is nothing but whatever the order we organize in the same order the data will be displayed)
+- On the object of bytearray, we can perform both indexing and slicing operations.
+- An object of bytearray to MUTABLE bcz bytearray object support item assignment.
+
+Note: The functionality of bytearray is exactly similar to bytes But the object of bytes belongs to immutable bcoz bytes object does not support item assignment where an object bytearray belongs to mutable bcoz an object of bytearray allows us to perform item assignment.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+4. range - 
+- 'range' is one of the pre-defined class and treated sequence Data type.
+- The purpose of range data type is that "To maintain sequence of integer values by maintaining equal interval of value (Step)".
+- On the object of range, we can perform both indexing and slicing operations.
+- An object of range to IMMUTABLE bcz range object does not support item assignment.
+- An object of range Maintain insertion order.
+- To create an object of range for storing Range OR sequence of values we use 3 pre-defined functions. Thye are 
+Syntax1: range(value)
+- The syntax generates range of values from 0 to value-1
+
+Syntax2: range(start, stop)
+- This syntax generates range of values from strat to stop-1
+
+Syntax3: range(Start,Stop, Step)
+- This syntax generates range of values from to stop by maintaining equal interval of value (steps)
+
+
+
+
+Example:
+
+Q1) 0 1 2 3 4 5 6 7 8 9 
+Q2) 10 11 12 13 14 15 16 17 18 19 20
+
+Q3) 10 15 20 25 30 35 40 45 50
+Q4) 100 110 120 130 140 150 160
+
+Q5) -9 -8 -7 -6 -5 -4 -3 -2 -1 
+Q6) -90 -80 -70 -60 -50 -40 -30 -20 -10
+Q7) -1 -2 -3 -4 -5 -6 -7 -8 -9
+Q8) -100 -120 - 140 -160 -180 -200
+
+
+Q9) -5 -4 -3 -2 -1 0 1 2 3 4 5 
+
+
+
+
+
+
+

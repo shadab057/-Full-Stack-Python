@@ -1,0 +1,27 @@
+            Sequence Category Data Types
+
+- The purpose of sequence category data types is that "to store sequence of values".
+- In Python Programming, we have 4 data types in sequence category . They are
+
+1. str
+2. bytes
+3. bytearray
+4. range
+
+---  ---  bytes --- ---
+- 'bytes' is one of the pre-defined class and treated sequence data type.
+- The purpose of bytes is that "To implement End-to-End encryption" in network based applications.
+- To implement End-to-End encryption in network based applications, bytes  data type organizes the numerical integer values in range of 0 to 256 i,e  it stores 0 to 255 values only 
+- bytes data type does not contain any symbolic notation for storing bytes data bcoz programmer wil not store bytes data directly in the program. But can convert any other type values into bytes type by using  bytes()
+- Syntax: varname=bytes(object)
+- An object of bytes maintains insertion order (insertion order is nothing but whatever the order we organize inthe same order the data will be displayed)
+- On the object of bytes, we can perform both indexing and slicing operations.
+- An object of bytes to IMMUTABLE  bcz bytes object does not support itme assignment.
+
+👉  Python ke immutable types:
+Integers (int)
+Floats (float)
+Strings (str)
+Tuples (tuple)
+Frozensets (frozenset)
+Bytes (bytes)
