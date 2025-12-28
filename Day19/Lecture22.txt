@@ -1,0 +1,46 @@
+3. remove():
+- based on value removing
+- syntax: listobj.remove(value)
+- this function is used for removing the first occurence specidfied value from list object.
+- if the specified value does not exist then we get ValueError
+syntax: lstobj.remove(index)
+
+4. pop(index)
+- based on index removing
+- This fi=unction is uded for removing an element od list based onvalid index
+- here index can be either +ve or -ve
+- if we enter invalid index then we get indexerror
+syntax: lstobj.pop(index)
+
+5. pop()
+- this function is used for removing the last element of list
+- id we call this function in empty list object then we get ______________
+
+) NOTE: del operator
+- syntax1: del listobj[index] -- remove one elemnet from list based indexing
+- syntax2: del listobj[Begin index : End Index: step] -- Removes element(s) base on slicing
+- syntax3: del listobj -- Remove all element + list object also
+- del operator can remove elements of mutable objects either with and entire object
+- and where del operator can't be used to element od IMMUTABLE Objects but we can remove entire  immutable object (content + physical object)
+-  once we roemove the immutable or mutable object by using del operator , whose memorh space collected by garbage collector
+- 
+
+6. clear()
+- This function is used for removing all elements from list object
+- if we call this function upon empty llist object then we get space or None as result
+- 
+syntax: lisobj.clear()
+
+7. index()
+- This function is used for obtaining the index of first occurence of specidfied element.
+- if the specidfied values does not exist then we get ValueError
+- 
+syntax : lisobj.index(value)
+
+
+
+
+
+
+
+syntax : listobj.pop()

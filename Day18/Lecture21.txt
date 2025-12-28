@@ -1,0 +1,101 @@
+List category Data types (collections data types)
+
+1) The purpose of list category data types is that "TO store Multiple values either of same type OR Different Type OR Both the Types in single Object with Unique and Duplicates.
+2) We have 2 data types category:
+- list (mutable)
+- tuple (Immutable)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* list
+- 'list is one of the pre-defined class and treated as list category data type.
+- The purpose of list Data type is that " to store Multiple values either of same type or Different type OR both the types in single object with Unique and duplicates".
+- to store the lsit data, we use square brackets, in otherwords, the elemenst of list must be enclosed within square brackets [] and values seperated by comma.
+             syntax: varname=[val1, val2, val3]
+
+- here varname is an object of list
+- An object of list maintains insertion order
+- On th object of lsit, we can perform both indexing and slicing opertion 
+- An object of list belongs to mutable bcz list object allow us to Modification / Updations / Assignments
+by using indexing and slicing
+- we can create two types of list objects. they are 
+ 1. Empty list
+ 2. Non-empty list
+ 
+Empty list
+- An empty list is one, which does not contain any element and whose length is 0.
+-Syntax1: listobj=[]
+-Syntax2: listobj=list()
+
+Non-empty list
+- An non-empty list is one, which contain element and whose length is > 0.
+-Syntax1: listobj=[val1, val2,.....]
+-Syntax2: listobj=list(object)
+
+1. int 
+2. float
+3. bool
+4. complex 
+--- single value non-iteraval object
+--- All fundamental value are not possible to convert into list bcz they are all non-iteraval object
+
+1. str
+2. byte
+3. bytearray
+4. range
+--- more than two value is called iteraval object
+
+----------- Pre-Defined functions in list -----------
+- We know that on the object of list, we can perform both indexing and slicing operations
+- With indexing, we get / Access single value and we can update single value of list object
+- With slicing operations we get / access multiple values and we can update multiple values of list object.
+- Hence with index and slicing operation on list, we can accesss and update values(s)
+- To do More operation on list object along with index and slicing operation, we use the pre-defined functions present in list object.
+- The pre-defined functions of list are given below .
+1.append()
+2.insert()
+3.remove()
+4.pop(index)
+5.pop()
+6.clear()
+
+  del operator
+7. index() ---enumerate()
+8. copy()
+9. count()
+10. reverse()
+11. sort()
+12. extend()
+
+-----------
+1.append()  :
+- append() function is used for adding something to the end of your list!
+syntax: listobj.append(Value)
+
+2.insert() :
+- insert() function is used for put something at a SPECIFIC spot in your list!
+syntax : lstobj.insert(index, value)
+- This function is used for inserting an element in the existing list at specified index 
+- Here the index can be either +ve or -ve
+- if we specified invalid +ve index then the value inserted as last element in list
+- if we specified invalid -ve index then the value inserted as first element in list
+-  
+
+
+FDT--- Single Value
+SDT--- Sequence of vlaues
+
+My Requirement today 
+
+1. I want to store 100 10 120 1000 -456 100 2000 400 10 12.34
+        Numerical values ---- Duplicates and Unique values
+2. I want to store 10 "Rossum", 45.67,"Python: , 56,78, True
+        Numerical vals+Different types of values+Both type 
+
+
+
+
+> Is psace is also considered as empty in list?
+Yes — an empty list does take some memory.
+
+
+
